@@ -1,4 +1,4 @@
-# Take Home Test React JS Programmer - PT Nutech Integrasi
+# Technical Test
 
 Repositori ini merupakan bagian dari Take Home Test untuk posisi React JS Programmer di PT Nutech Integrasi. Aplikasi ini adalah **To-Do List Application** yang dibangun dengan React, TypeScript, dan Vite.
 
